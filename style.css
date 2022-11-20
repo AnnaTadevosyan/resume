@@ -1,0 +1,35 @@
+.myp1{
+    color: blue;
+    width: 300px;
+    height: 300px;
+    text-align: justify ;
+     font-size: 25px ;
+     line-height: 1.5 ;
+    text-indent: 40px;
+}
+
+.myp2{
+
+    color: brown;
+    text-align: right ;
+    font-family: 'Roboto', sans-serif ;
+
+}
+
+.myp3{
+
+ font-size: 25px;
+font-family: 'Dancing Script', cursive ;
+text-decoration: underline ;
+
+}
+
+.link1{
+
+    text-decoration: none;
+
+
+}
+
+
+
